@@ -1,16 +1,15 @@
-## Hi there 👋
+# Thibaut Faucheux
+Computer Science Engineering Student @ CESI Lyon  
+Application Developer Apprentice @ Pilot Corporation of Europe (Annecy, France)  
+Interested in Web Development, Automation, and AI.
 
-<!--
-**Thibaut0000/Thibaut0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Main Projects
+- Twitter-like App – React, Node.js, MongoDB  
+- HR Onboarding Platform (Pilot) – PDF generation and automated emails  
+- E-commerce Platform – Shopify automation and SEO optimization
 
-Here are some ideas to get you started:
+## Tech Stack
+React | Node.js | MongoDB | SQL | Tailwind CSS | Docker | Git | Python | C# | C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact: [thibautfaucheux1@gmail.com](mailto:thibautfaucheux1@gmail.com)  
+Portfolio: [https://yourdomain.com](https://yourdomain.com)
