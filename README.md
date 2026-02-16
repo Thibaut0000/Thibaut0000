@@ -12,4 +12,4 @@ Interested in Web Development, Automation, and AI.
 React | Node.js | MongoDB | SQL | Tailwind CSS | Docker | Git | Python | C# | C++
 
 Contact: [thibautfaucheux1@gmail.com](mailto:thibautfaucheux1@gmail.com)  
-Portfolio: [https://yourdomain.com](https://yourdomain.com)
+Portfolio: [https://thibautfcx.fr](https://thibautfcx.fr)
